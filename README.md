@@ -46,7 +46,7 @@ Running `python dehaze_im_bin_search.py` dehazes all the images present in `haze
 │   └── 2230089563_06d4982122_z_t.png           # smoothed and interpolated transmittance
 ├── README.md
 ├── train_comp_model.py                         # trains the comparator with the generated data
-├── visualize_cluster_centers.py                # for visualizing the generated cluster centers
+└── visualize_cluster_centers.py                # for visualizing the generated cluster centers
 ```
 
 For dehazing an image running the `dehaze_im_binsearch.py` is sufficient. To train a new comparator the following steps need to be followed.
