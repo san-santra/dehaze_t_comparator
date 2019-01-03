@@ -1,5 +1,5 @@
 # Code of the paper "Learning a Patch Quality Comparator for Single Image Dehazing"
-[Project Page](https://github.com/san-santra/dehaze_t_comparator)
+[Project Page](http://san-santra.github.io/comp_t18/)
 
 | Input        | Dehzed         | 
 |:-------------:|:-------------:|
