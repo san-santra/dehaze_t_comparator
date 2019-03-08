@@ -31,6 +31,7 @@ Running `python dehaze_im_bin_search.py` dehazes all the images present in `haze
 │   └── training_images
 │       └── filelist.txt                        # files used for clustering
 ├── data_gen.py                                 # comparator training data generator
+├── dehaze_im_binsearch_no_sksparse.py          # dehaze image with a trained comparator without using sksparse
 ├── dehaze_im_binsearch.py                      # dehaze image with a trained comparator
 ├── haze_image                                  # hazy images
 │   └── 2230089563_06d4982122_z.jpg
